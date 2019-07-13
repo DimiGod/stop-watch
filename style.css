@@ -5,7 +5,7 @@ body { /* Visual */
   #display {
     font-family: monospace;
     font-size: 120px;
-    color: green;
+    color: red;
   
     /* Typography */
     text-align: center;
